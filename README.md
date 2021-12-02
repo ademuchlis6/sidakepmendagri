@@ -1,36 +1,9 @@
-ci_crud
-================
+Sistem informasi data kepegawaian kementerian dalam negeri
 
-Contoh CodeIgniter CRUD menggunakan library Ion Auth dan Bootstrap
+aplikasi untuk mengelola data pegawai, lembaga, direktorat, seksi dan lainnya
+sudah dilengkapi dengan multi login
 
-- [Codeigniter 3.0.2](http://www.codeigniter.com)
-- [Ion Auth v2.6](https://github.com/benedmunds/CodeIgniter-Ion-Auth)
-- [Bootstrap CSS v3.3.1](http://getbootstrap.com)
-
-## Install
-
-- unduh dan ekstrak ke localhost
-- buat database
-- atur konfigurasi database pada file application/config/database.php
-- buka aplikasi di browser
-- login menggunakan akun defaul ini:
-  - username: admin@admin.com
-  - password: password
-
----
-
-CodeIgniter CRUD with Ion Auth Library and Bootstrap Template
-
-- [Codeigniter 3.0.2](http://www.codeigniter.com)
-- [Ion Auth v2.6](https://github.com/benedmunds/CodeIgniter-Ion-Auth)
-- [Bootstrap CSS v3.3.1](http://getbootstrap.com)
-
-## Install
-
-- download and extract to your localhost
-- create any database
-- set database configuration in application/config/database.php
-- open in browser
-- use this default account to login
-  - username: admin@admin.com
-  - password: password
+![1](https://user-images.githubusercontent.com/82435592/144350367-81276d74-c047-418d-9d4f-5b8992451c1f.PNG)
+![2](https://user-images.githubusercontent.com/82435592/144350376-a8c7eb27-89d7-4b0b-a2b0-5b3ea41438fc.PNG)
+![3](https://user-images.githubusercontent.com/82435592/144350378-0d4e605e-d08d-4f2d-984d-2d7d02c933c2.PNG)
+![4](https://user-images.githubusercontent.com/82435592/144350379-ad37a44f-a426-4c47-a9a4-219370f99aae.PNG)
