@@ -1,0 +1,66 @@
+.siak-font{
+	font-size:18px;
+	font-weight:500;
+}
+
+.portlet.box.blue1{
+	moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: -moz-use-text-color #b4cef8  #b4cef8 ;
+    border-image: none;
+    border-style: none solid solid;
+    border-width: 0 1px 1px;
+}
+
+.portlet > .portlet-body.blue1, .portlet.blue1 {
+    background-color: #27a9e3 !important;
+}
+
+.portlet.box.purple1{
+	moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: -moz-use-text-color #bf55ec #bf55ec;
+    border-image: none;
+    border-style: none solid solid;
+    border-width: 0 1px 1px;
+}
+
+.portlet > .portlet-body.purple1, .portlet.purple1 {
+    background-color: #bf55ec !important;
+}
+
+.portlet.box.yellow1{
+	moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: -moz-use-text-color #e87e04 #e87e04;
+    border-image: none;
+    border-style: none solid solid;
+    border-width: 0 1px 1px;
+}
+
+.portlet > .portlet-body.yellow1, .portlet.yellow1 {
+    background-color: #d47304 !important;
+}
+
+
+.feeds li:nth-child(even) {
+    background-color: #FFFFCC;
+}
+#siak_edit .feeds .col1 .cont .cont-col1 .label {
+	padding:10px 5px 6px 5px;
+}
+
+.kkNotifikasi {
+    border-bottom: 1px solid #f4f4f4 !important;
+    font-size: 12px;
+    list-style: outside none none;
+    padding: 7px 0 5px;
+    text-shadow: none;background-color: #ffffff;
+    padding: 10px !important;
+}

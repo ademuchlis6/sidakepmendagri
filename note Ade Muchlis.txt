@@ -1,0 +1,39 @@
+Berikut saya lampirkan project Uji Kompetensi Programmer,Nama : Ade Muchlis Maulana AnwarNohp : 082299222900link Gdrive Project : user : - kemendagri
+- 198503302003121003
+- 198503302003121004
+- 198503302003121005
+- 198503302003121006
+- 198503302003121007
+- 198503302003121008
+- 198503302003121002
+semua user menggunakan password : kemendagridatabase.sql ada didalam folder /dbnama database : sidakepmendagriscreenshot aplikasi ada di dalam folder /dokumentasi
+Sikepmendagri
+Sistem Informasi Kepegawaian Kemendagri
+Terdapat level user mulai dari 
+-Direktorat (eselon 2)
+-Sub Direktorat/Bagian (eselon 3)
+-Seksi/Sub Bagian (Eselon 4)
+-Staf
+
+dan terdapat level super user
+-Kemendagri
+
+Terdapat menu untuk mengelola lembaga, subdirektorat dan seksi
+yang dapat dikelola oleh user level kemendagri
+
+level kemendagri dapat mengelola semua user
+sementara level direktorat sampai staf hanya dapat melihat user level yang diatasnya
+dan dapat mengelola level user yang dibawahnya saja.
+untuk staf hanya dapat melihat saja
+
+terdapat menu tambahan berupa penggantian password dan grafik jumlah pegawai
+
+Aplikasi dibuat menggunakan :
+Codeigniter 3.1.5
+Xampp v3.2.4 : Apache/2.4.46 (Win64) PHP/7.4.11
+PHP Extension Build	 : API20190902,TS,VC15
+Bootstrap v3.1.1
+jQuery v1.10.2
+
+Aplikasi di tes di laptop Dell Inspiron 15 3000
+berjalan di Xampp V3.204

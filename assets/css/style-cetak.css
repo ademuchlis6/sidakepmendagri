@@ -1,0 +1,36 @@
+.table-responsive {
+	color: #000; 
+	font-family: 'Open Sans', sans-serif;
+	padding: 0px !important;
+	margin: 0px !important;
+	font-size:13px; 
+	direction: ltr;
+}
+
+.table {
+	width: 100%;
+	margin-bottom: 0px;
+}
+
+.table-striped {
+	border-collapse: collapse;
+}
+
+.table-bordered {
+	border: 1px solid #ccc;
+}
+
+.table th {
+	text-align: center;
+	vertical-align: middle;
+	background: #f4f4f4;
+}
+
+.table th, .table td {
+	padding: 8px;
+	border: 1px solid #ccc;
+}
+
+h1, h2, h3 {
+	font-weight: 500;
+}

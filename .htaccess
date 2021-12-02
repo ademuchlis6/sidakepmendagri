@@ -1,0 +1,15 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  #RewriteBase /
+#  RewriteCond %{HTTP_USER_AGENT} Chrome [NC]
+ # RewriteRule ^ error404.html [QSA,L]
+
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteRule ^ index.php [QSA,L]
+</IfModule>
+
+<IfModule mod_headers.c>
+  <FilesMatch "\.(ttf|ttc|otf|eot|woff|font.css|css)$">
+    Header set Access-Control-Allow-Origin "*"
+  </FilesMatch>
+</IfModule>
